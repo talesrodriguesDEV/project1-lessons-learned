@@ -1,0 +1,155 @@
+body {
+    background-color: #FAF0CA;
+    font-size: 20px;
+    color: #0D3B66;
+    line-height: 30px;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+}
+
+#cabecalho {
+    position: fixed;
+    top: 0;
+}
+
+#minha_foto {
+    border: 5px solid #F95738;
+    padding: 5px;
+    background-color: #EE964B;
+    width: 600px;
+    border-radius: 100%;
+    margin-top: 100px;
+}
+
+.lado-esquerdo, .lado-direito {
+    display: inline-block;
+    width: 500px;
+    vertical-align: middle;
+}
+
+#licoes_aprendidas, #licoes_a_aprender {
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+#section2, #section4 {
+    background-color: #F4D35E;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    /* border: 2px solid red; */
+    height: 600px;
+}
+
+table {
+    background-color: #F95738;
+    margin-left: 100px;
+    display: inline-block;
+    /* border: 2px solid red; */
+    margin-top: 80px;
+}
+
+#quadrante1 {
+    background-color: white;
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#quadrante2 {
+    background-color: white;
+    width: 200px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#quadrante3 {
+    background-color: white;
+    width: 200px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+#quadrante4 {
+    background-color: white;
+    width: 200px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+div {
+    display: inline-block;
+    list-style-type: none;
+    text-align: left;
+    vertical-align: middle;
+    /* border: 2px solid red; */
+    margin-right: 100px;
+    margin-bottom: 400px;
+    line-height: 50px;
+}
+
+h2 a {
+    text-decoration: none;
+    color: #2fc18c;
+}
+
+h2 a:hover {
+    color: white;
+}
+
+footer h2 {
+    margin-bottom: 100px;
+    /* border: 2px solid red; */
+}
+
+#section3 article, aside {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#section3 h2 {
+    margin-bottom: 100px;
+}
+
+h1 {
+    color: #F95738;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#cabecalho nav ul {
+    list-style-type: none;
+    text-align: left;
+    
+}
+
+#cabecalho nav ul a {
+    color: #0D3B66;
+    text-decoration: none;
+}
+
+#cabecalho nav ul a:hover {
+    color: #F95738;
+}
+
+#tales {
+    color: #F95738;
+}
+
+#tales:hover {
+    color: #EE964B;
+}
